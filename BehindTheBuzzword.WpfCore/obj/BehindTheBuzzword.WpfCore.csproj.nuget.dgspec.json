@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\BehindTheBuzzword.WpfCore\\BehindTheBuzzword.WpfCore.csproj": {}
+    "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\dotnet-core-3-wpf\\BehindTheBuzzword.WpfCore\\BehindTheBuzzword.WpfCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\BehindTheBuzzword.WpfCore\\BehindTheBuzzword.WpfCore.csproj": {
+    "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\dotnet-core-3-wpf\\BehindTheBuzzword.WpfCore\\BehindTheBuzzword.WpfCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\BehindTheBuzzword.WpfCore\\BehindTheBuzzword.WpfCore.csproj",
+        "projectUniqueName": "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\dotnet-core-3-wpf\\BehindTheBuzzword.WpfCore\\BehindTheBuzzword.WpfCore.csproj",
         "projectName": "BehindTheBuzzword.WpfCore",
-        "projectPath": "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\BehindTheBuzzword.WpfCore\\BehindTheBuzzword.WpfCore.csproj",
+        "projectPath": "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\dotnet-core-3-wpf\\BehindTheBuzzword.WpfCore\\BehindTheBuzzword.WpfCore.csproj",
         "packagesPath": "C:\\Users\\tolis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\BehindTheBuzzword.WpfCore\\obj\\",
+        "outputPath": "C:\\Users\\tolis\\source\\repos\\BehindTheBuzzword.WpfExample\\dotnet-core-3-wpf\\BehindTheBuzzword.WpfCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
