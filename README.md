@@ -39,7 +39,27 @@ The initial master branch simply is a blank WPF application, with a single `Hell
 
 ## Other brances
 
-The other branches that have the naming convention of <stage_number>_<description_of_stage>, will be used to demostrate various interesting aspects of WPF in .NET Core 3.0
+The other branches that have the naming convention of <stage_number>_<description_of_stage>, will be used to demostrate various interesting aspects of features in .NET Core 3.0
 
 ## Create a WPF app
+
+To create a WPF app you simply need to create a `WPF App (.NET Core)` project in VS 2019 Preview. 
+
+## Create a console application
+
+Using a console application to play around with nullable reference types.
+
+### Useful resources
+
+What is it: https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references
+Tutorial: https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/nullable-reference-types
+
+### Enalbing nullable reference types
+
+Add these two elements to the `PropertyGroup` of your .csproj file:
+
+```
+    <LangVersion>8.0</LangVersion>
+    <Nullable>enable</Nullable>
+```
 
